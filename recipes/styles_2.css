@@ -1,0 +1,26 @@
+h1 {
+    color:black;
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font size: 18px;
+}
+
+ul{
+    font-style: italic;
+    font size: 14px;
+    color : green; 
+} 
+
+img {
+    width: 600px;
+    height:600px;
+}
+
+.pro_image{
+    width: 200px;
+    height: 200px;
+}
