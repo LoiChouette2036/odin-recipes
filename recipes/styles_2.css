@@ -9,6 +9,14 @@ h2{
     font size: 18px;
 }
 
+h2.titre_h2 {
+    border: 5px bold blue;
+    background-color: pink;
+    padding: 25px;
+    margin: 10px 10px 10px 0px;
+    display: inline-block;
+}
+
 ul{
     font-style: italic;
     font size: 14px;
@@ -23,4 +31,34 @@ img {
 .pro_image{
     width: 200px;
     height: 200px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.card {
+    padding: 8px;
+    background-color: brown;
+}
+
+#titre_3 {
+    border: 5px bold red;
+    background-color: aqua;
+    padding: 8px;
+    margin: 15px;
+    text-align: center;
+}
+
+#liste_3 {
+    border: 5px bold blue;
+    margin: 15px;
+    padding: 8px;
+    font-style: Franklin Gothic Medium, Consolas, Courier New, Arial black;
+}
+
+#p_3{
+    border: 5px bold black;
+    margin: 15px;
+    padding: 8px;
+    background-color: aquamarine;
+    display: inline-block;
 }
